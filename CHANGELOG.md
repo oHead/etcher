@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.81
+## (2020-04-07)
+
+* Update etcher-sdk to use direct IO [Alexis Svinartchouk]
+
 # v1.5.80
 ## (2020-03-24)
 
